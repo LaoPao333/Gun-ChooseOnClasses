@@ -28,6 +28,6 @@ def choosingrifle():
     elif choice == 2 and money == 5000:
         gun2.info()
     else:
-        print("Такого нет! Или же не хватает денег!")
+        print("Нужны деньги.")
 
 choosingrifle()
